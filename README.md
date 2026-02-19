@@ -1,2 +1,2 @@
 # ML/DL
-This is my repository for saving notes and project codes related to ML/DL AI.
+This is my repository for saving notes and projects related to ML/DL AI. Apart from course labs, I will be working on additional problems Iris dataset.
