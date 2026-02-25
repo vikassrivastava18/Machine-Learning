@@ -130,7 +130,6 @@ def compile_fit(model,X,y):
         loss=tf.keras.losses.MeanSquaredError(),
         optimizer=tf.keras.optimizers.Adam(0.01),
     )
-
     model.fit(
         X,y,
         epochs=100,

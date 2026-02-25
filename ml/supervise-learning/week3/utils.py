@@ -8,7 +8,6 @@ def load_data(filename):
     return X, y
 
 def sig(z):
- 
     return 1/(1+np.exp(-z))
 
 def map_feature(X1, X2):
